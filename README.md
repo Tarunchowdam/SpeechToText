@@ -11,18 +11,6 @@ SpeechToText is a React.js application that converts spoken words into text in r
 - **Customizable Settings**: Allows users to adjust settings such as language and recognition accuracy.
 - **Save Transcripts**: Users can save transcribed text for future reference.
 
-## Installation
-
-To get started with SpeechToText, follow these steps:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/Tarunchowdam/speechtotext.git
-2.**Navigate into the directory:**
-    
-   ```bash  
-    cd speechtotext
 
 
 ## Usage
