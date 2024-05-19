@@ -28,7 +28,7 @@ To get started with SpeechToText, follow these steps:
 ## Usage
 
 To run the application, use the following command:
-```bash
+
 https://speechrecognition-react.netlify.app/
 
 ## License
