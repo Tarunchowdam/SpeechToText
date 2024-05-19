@@ -18,18 +18,17 @@ To get started with SpeechToText, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/speechtotext.git
+   git clone https://github.com/Tarunchowdam/speechtotext.git
 2.**Navigate into the directory:**
-    ```bash
+    
+   ```bash  
     cd speechtotext
-3.**Install dependencies:**
-    ```bash
-    npm install
+
 
 ## Usage
 
 To run the application, use the following command:
-    ```bash
+  
     https://speechrecognition-react.netlify.app/
 
 ## License
@@ -38,4 +37,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For any questions or feedback, please reach out to tarunchowdam435@.com or create an issue on this repository.
+For any questions or feedback, please reach out to tarunchowdam435@gmail.com or create an issue on this repository.
